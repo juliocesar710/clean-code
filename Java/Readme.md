@@ -12,7 +12,6 @@ Estude o básico de programação em Java, como variáveis, tipos de dados, estr
 
 ## Usar os códigos Java
 
-
 - 1 Acesse o link a seguinte:
 <br><https://github.com/juliocesar710/clean-code-examples>
 
