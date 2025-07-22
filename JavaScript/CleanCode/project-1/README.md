@@ -13,6 +13,8 @@ project-1/
 |   |── services/
 |   |    |──calculatesAverage.js
 |   |    |──checkApproval.js
+|   tests/
+├──   ├── calculatesAverage.js
 └── README.md
 ```
 
