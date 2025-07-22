@@ -1,0 +1,17 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Este exemplo de código limpo em JavaScript demonstra a importância da limpeza e organização do código. Ele apresenta um exemplo de código limpo que usa a sintaxe moderna do JavaScript e segue os princípios da Clean Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@vitest/ui": "^3.2.4",
+    "vitest": "^3.2.4"
+  }
+}
