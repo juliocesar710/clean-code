@@ -1,0 +1,19 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "Este projeto foi desenvolvido com o objetivo de demonstrar, na prática, o uso de **refatoração de código** com base nos princípios do livro *Refatoração* de Martin Fowler (2ª edição, 2019).",
+  "main": "mains.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
