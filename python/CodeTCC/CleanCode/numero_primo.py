@@ -11,8 +11,8 @@ def eh_numero_primo(numero):
     return quantidade_divisores == 2
 
 
-numero_eh_primo = eh_numero_primo(7)
-numero_eh_primo = eh_numero_primo(10)
+resultado_1 = eh_numero_primo(7)
+resultado_2 = eh_numero_primo(10)
 
-print(numero_eh_primo)
-print(numero_eh_primo)
+print(resultado_1)
+print(resultado_2)

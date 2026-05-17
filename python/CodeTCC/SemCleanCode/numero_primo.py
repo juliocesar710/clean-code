@@ -1,18 +1,16 @@
-def verificar_primo(num):
-    divisores = 0
-
-    for i in range(1, num + 1):
+def verificar_primo(num, inicio, fim, qtd_divisores):
+    for i in range(inicio, fim + 1):
         if num % i == 0:
-            divisores += 1
+            qtd_divisores += 1
 
-    if divisores == 2:
+    if qtd_divisores == 2:
         return True
     else:
         return False
 
 
-resultado1 = verificar_primo(7)
-resultado2 = verificar_primo(10)
+resultado1 = verificar_primo(7, 1, 7, 0)
+resultado2 = verificar_primo(10, 1, 10, 0)
 
 print(resultado1)
 print(resultado2)

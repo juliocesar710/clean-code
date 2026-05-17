@@ -1,14 +1,20 @@
 def maior(lista):
-    maior = lista[0]
+    maior = None
 
     for n in lista:
-        if n > maior:
-            maior = n
+
+        if n > 0:
+
+            if maior == None:
+                    maior = n
+
+            elif n > maior:
+                    maior = n
 
     return maior
 
 
-valores = [12, 45, 7, 89, 23]
+valores = [12, -4, 45, 18, 7, 89, 24]
 
 resultado = maior(valores)
 
