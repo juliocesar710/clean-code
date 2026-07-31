@@ -1,0 +1,95 @@
+﻿para eu transcrever depois tá gravando aqui eh qual das
+
+tar passar qual das tarefas você achou a mais fácil
+
+de entender por quê aí você pode voltar aqui e ver uma por
+
+uma casqueira.
+
+acho que é a primeira, mas já por como é que eu posso dizer por
+
+já ter visto isso muitas vezes no a primeira questão de calcular mais de três,
+
+isso de média porque já viu muitas vezes né, isso já vi várias vezes ok,
+
+quais elementos do código mais contribuíram para facilitar sua
+
+compreensão aí pode ser dessa em específico ou de modo geral tá?
+
+Bom eu acho que de um modo geral eh ele ficou bem bem organizado todo
+
+todo o código não é que as perguntas estejam
+
+difíceis mas tipo acho que python é uma linguagem que dá para você entender muito
+
+bem tipo só de você olhar assim por cima ou o código.
+
+Entendi, houve algum trecho que gerou dúvida ou dificuldade, se sim, qual tá,
+
+eu acho que o que eu tive mais foi na lista ordenada,
+
+na questão cinco do buscavalou, sim, isso, mas eu acho que não foi tanto pelo código,
+
+foi mais pelo fator lista que eu tinha tinha
+
+esquecido um pouquinho da ordenação o índice que buscava,
+
+mas foi mais pelo...
+
+pelo fator de de índice e ordenação não pelo código mis,
+
+mas você entendeu que tipo ele tava retornando o índice, no caso né, ok?
+
+eh, a organização do código influenciou sua interpretação da solução,
+
+de que forma?
+
+como é que você pode pedir favor?
+
+é a organização do código influenciou a sua interpretação da solução?
+
+sim, com certeza, tipo o códigozinho bem organizado assim fica.
+
+bem mais fácil, eu acho que até mais rápido de você conseguir solucionar,
+
+por eu vi um código do pessoal do p1 uma vez tipo era
+
+um negócio todo bagunçado e você às vezes às vezes não sabia nem o que tavam procurando,
+
+entendi eh os nomes,
+
+variáveis e funções impactaram sua compreensão
+
+como deixa eu entender um pouco mais
+
+a pergunta como assim eh os nomes de variáveis de funções?
+
+os nomes de cada variável, de cada função, influenciou, eh, impactou na sua compreensão?
+
+sim, acho que facilitou, facilitar a compensação, ok?
+
+você acredita que práticas de organização
+
+padronização ajudam no aprendizado de programação?
+
+por quê?
+
+sim, acho que com certeza, porque eh, um, como é que eu posso dizer?
+
+por exemplo, se um código desse para alguém,
+
+eu acho que uma pessoa que, por exemplo, nunca viu programação,
+
+python tivesse uma pequena só uma pequena ideia assim do que tá vendo aqui,
+
+eu acho que ele conseguiria fazer por conta da organização,
+
+mas se pegasse um código mais bagunçado eu acho que ele
+
+não ia saber o que como o que que o código estava fazendo né?
+
+entendi, perfeito,
+
+a última pergunta para finalizar é como você avalia a experiência de participar
+
+do experimento?

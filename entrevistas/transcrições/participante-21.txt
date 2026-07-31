@@ -1,0 +1,51 @@
+Entrevistador: É... coloquei para gravar aqui. Primeira pergunta, deixa eu dar uma olhada... É... qual das tarefas você achou a mais fácil de entender, por quê?
+
+Participante: Pode voltar?
+
+Entrevistador: Pode, pode, fica à vontade.
+
+Participante: A mais fácil de entender... [Analisando os papéis] Acho que a primeira, realmente.
+
+Entrevistador: A primeira? Por quê?
+
+Participante: Porque é mais a questão de... de lógica também, né? Tem que... é... pegar as médias, e a questão das faltas, né? Que, no caso aqui, o código tá dizendo para pegar três médias de cada aluno, no caso que são dois alunos, né? Para fazer a média e verificar também a questão da presença. Aí, de acordo com a média, se for maior que sete, vai verificar a presença; se tiver a... menor ou igual a 10 é aprovado, ou... ou maior ou igual a cinco, recuperação, ou então reprovado por... por falta ou por média, né? Aí, é tipo assim, essa questão é mais fácil por conta disso, mais por questão de... de lógica e ambientação, né, em questão da faculdade.
+
+Entrevistador: Perfeito. É... quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: Foi mais a questão da... dos nomes... das variáveis, e da... das funções também.
+
+Entrevistador: Ok. Houve algum trecho que gerou dúvida ou dificuldade? É... se sim, qual?
+
+Participante: Algum código que você tá dizendo?
+
+Entrevistador: Sim, pode... pode ser de todos no... no geral.
+
+Participante: Sim, o que gerou mais dificuldade... deixa eu ver... [Analisando os códigos] É, o de... o de... assim, não que tenha tido... tenha sido tanta dificuldade, mas é mais a questão de... de entender todo o processo de linha por linha, né? De ver... fazer... entender as verificações que estão fazendo e as condições, para tentar entender o que tá sendo, por exemplo, trocado, o que tá sendo colocado na variável.
+
+Entrevistador: No caso, foi essa de encontrar o maior número?
+
+Participante: Não... não especificamente essa, tipo, de modo geral, é.
+
+Entrevistador: Foi no caso, não uma questão específica, foi de modo geral, ok. É... a organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Ah, no caso a organização, né?
+
+Entrevistador: Do código.
+
+Participante: É, tipo assim... fica... se torna mais fácil, né, se for um código organizado. Se tivesse, por exemplo... pega mais a questão também da nomenclatura das... das variáveis e da... das funções, né? Se for colocar alguma coisa desorganizada, tipo assim, não colocar especificadamente o que cada função tá fazendo... tipo assim, digamos nessa daqui de fatorial, se tivesse colocado um fat, coisa do tipo, aí dificultaria a leitura e também mais a questão da organização, né? Se colocasse, tipo assim, junto, variáveis com nomes parecidos, aí dificultaria mais o entendimento.
+
+Entrevistador: Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Sim, como eu já disse anteriormente, né? E... isso é um fator que influencia bastante na questão de... de entendimento do código. Porque uma variável com... com um nome bem explicado do que ela é, se torna bem mais simples de entender. E a questão da função também, que, tipo, cada função tem que ter um único objetivo, né? E se você coloc-... colocar algo... um nome que gere duplicidade, aí se torna mais difícil de compreender o código.
+
+Entrevistador: Perfeito. Você acredita que práticas de organização e padronização de código ajudam no aprendizado de programação? Por quê?
+
+Participante: Sim. É mais... é tipo assim, no geral, é mais essa questão de você saber o que você tá fazendo, né? Tipo assim, questão de organização, de você saber onde cada variável vai se encaixar, onde cada função tem... tem seu devido... como é que a gente pode dizer... tipo assim, objetivo, né? Que se você tiver... tiver esse conhecimento de boas práticas também, se torna tanto mais simples para você realizar o código, quanto para... tipo assim... se uma pessoa que não tem conhecimento de código bater o olho e ler, de acordo com a nomenclatura, vai entender o que tá fazendo.
+
+Entrevistador: Perfeito. Última pergunta aqui é como você avalia a experiência de participar do experimento?
+
+Participante: Em nota ou...
+
+Entrevistador: Como você avalia.
+
+Participante: Ah...

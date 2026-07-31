@@ -1,0 +1,47 @@
+Entrevistador: Pronto, coloquei para gravar. Deixa eu pegar as perguntas aqui... É... qual das tarefas você achou a mais fácil de entender? Por quê?
+
+Participante: [Analisando o papel] A 4C, porque descreve...
+
+Entrevistador: Não, das... dessas aqui, desculpa. Teve uma que eu tinha te passado.
+
+Participante: Ah, tá. Beleza. Qual dessas aqui foi a mais fácil? Isso... isso. Pode passar, tá bom? Deixa eu ver... É a primeira.
+
+Entrevistador: A primeira questão, de média de três. Por quê?
+
+Participante: Porque o código descreve bem como é... cada passo assim, sabe? Descreve bem, com informações claras e tem as informações também... é... de primeira assim, qual... qual seria, né, o... o programado e tal. Enfim, tá bem descrito, de forma clara.
+
+Entrevistador: Perfeito. É... quais elementos do código mais contribuíram para facilitar sua compreensão? Pode ser dessa questão ou de todas no geral.
+
+Participante: Eu acredito que seja a descrição de, tipo... é... de quando usa uma... não usa uma função, mas tipo, ela é uma coisa mais estruturada, que passa por passos, sabe? Eu acredito que seja o... o passo a passo em si. Sem ser uma coisa que já... uma função que já faça tudo, entendeu?
+
+Entrevistador: A divisão.
+
+Participante: Isso.
+
+Entrevistador: Tá, a divisão da lógica.
+
+Participante: Isso.
+
+Entrevistador: Ok. Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Deixa eu ver... Deixa eu ver aqui... Hum, deixa eu ver... É, eu acredito que seja esse...
+
+Entrevistador: A questão cinco, de busca... é... binária.
+
+Participante: Isso. É... acredito que realmente eu... a lógica ficou... para mim ficou um pouco confusa, do meu... da minha compreensão, né? Sim. Mas assim, depois que... que eu entendi, aí eu consegui compreender melhor. Mas assim, batendo o olho, eu achei um pouco confuso na hora de compreender.
+
+Entrevistador: Perfeito. É... a organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Acredito que... que seja o... é... para... na compreensão, eu acredito que o... deixa eu ver... não a forma em como ele foi feito em si, mas o... acho que as funções... é... que eu não compreendi muito bem. Não o jeito que ele está... que ele está estruturado, mas a de como foi feito assim. Como... o que cada coisa levava a tal coisa, entendeu? "Tipo, isso leva a isso". Acho que foi isso que me deixou mais confusa.
+
+Entrevistador: Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como? Aí pode ser dessa ou de todas no geral, tá?
+
+Participante: Hum, certo. Deixa eu ver... Acredito que quando a função é... com... quando a variável tem exatamente o... o que ela faz assim, bem... é... já fica claro. A pessoa bate o olho e já entende. Quando não, fica assim, a pessoa às vezes pode: "Ah, para que... o que vai fazer? Para que serve?". É, acredito que seja isso.
+
+Entrevistador: Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Acredito que sim, porque... na... na parte de ficar mais, tipo, prático, didático... a visualização... você já enxerga, identifica assim que você olhar.
+
+Entrevistador: Ok. É... última pergunta para finalizar, é... como você avalia a experiência de participar do experimento?
+
+Participante: Achei interessante, satisfatória e...

@@ -1,0 +1,51 @@
+﻿Pronto, coloquei para gravar,
+
+eh, qual das tarefas achou mais fácil de entender,
+
+porque aí você pode voltar para ver cada
+
+uma,
+
+eu acho que a última foi a mais fácil, porque só que bater o outro,
+
+ah seis né, isso ok, por quê?
+
+porque como... sim eh eu só fui ver a parte do nome da função ordenar
+
+aí vi lista de números antes eu já saberia qual seria só pela lógica
+
+ok quais elementos do código mais contribuíram para facilitar sua
+
+compreensão pode ser dessa questão ou de modo geral de modo geral nome
+
+da função facilita ok eh houve algum trecho que gerou dúvida
+
+ou dificuldade se sim qual ah sim.
+
+a parte do trechar aqui foi a segunda questão número prímio número primo sim
+
+a questão do desse retorno aqui tá me complendo um pouco porque faz tempo
+
+que eu intentei a a questão de python entendi na questão do retur aham
+
+ok eh a organização do código influenciou sua interpretação da solução de que
+
+forma de maneira geral de maneira geral ou de alguma questão específica que ele comentar.
+
+aí por favor eh a organização do código influenciou sua
+
+interpretação da solução,
+
+rapaz, de de forma geral sim, ela ajuda demais,
+
+sim, já que precisa indentar as coisas para pessoa entender o código,
+
+indientação é importante,
+
+perfeito, os nomes variáveis e funções impactaram sua compreensão, como sim,
+
+para entender o código de maneira geral mais rápida, ok, você já...
+
+práticas de organização padronização ajuda no aprendizado de programação? por quê?
+
+sim, porque se se a gente sai com padrão é mais fácil tanto de fazer com como de aprender.

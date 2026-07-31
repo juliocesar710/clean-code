@@ -1,0 +1,47 @@
+Entrevistador: ...para ver depois. Uhum. Coloquei para gravar. É... qual das tarefas você achou a mais fácil de entender, por quê? Aí você pode voltar para olhar uma por uma.
+
+Participante: [Analisando as opções] Acho que a última, de ordenação.
+
+Entrevistador: A seis. Por quê?
+
+Participante: Porque eu entendi que ela tá bem descrita, assim, passo a passo. Cada... cada linha de código deu para entender exatamente o que cada... cada etapa tava fazendo.
+
+Entrevistador: Ok. Quais elementos do código mais contribuíram para facilitar sua compreensão? Pode ser dessa questão ou de modo geral, tá?
+
+Participante: Ok. Nessa questão específica, eu acho que tá... as palavras estão encaixando bem com a execução de cada... cada linha. Nessa questão seis, certo? Pode continuar. Por exemplo, quando a gente tem... é... lista, que ele faz pegar do vetor, digamos assim, j + 1, a gente... eu tenho o entendimento do que exatamente essa linha tá fazendo, então fica mais fácil.
+
+Entrevistador: Entendi. Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Eu... posso voltar?
+
+Entrevistador: Pode, pode. Fique à vontade aí.
+
+Participante: Acho que essa no... no...
+
+Entrevistador: Da cinco, de busca binária?
+
+Participante: Isso.
+
+Entrevistador: É... qual?
+
+Participante: Acho que eu fiquei meio perdido em relação ao... à busca pelo resultado. Quando informa o valor aqui, eu não... eu tô entendendo que ele buscava o valor dentro da lista e não a posição. Então, acho que foi isso que me confundiu mais.
+
+Entrevistador: Ok. A organização do código influenciou a sua interpretação da solução? De que forma?
+
+Participante: Não entendi. Pode repetir?
+
+Entrevistador: A organização do código influenciou a sua interpretação da solução, de que forma?
+
+Participante: Facilitou porque, assim, eu acho que tá na ordem que deveria estar. Cada bloco de código tá funcionando da maneira que ele deveria funcionar, e isso facilitou meu entendimento.
+
+Entrevistador: Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Sim, as palavras, quando elas estão bem descritas, você sabe exatamente o que elas representam dentro do código, então facilitou. Impactou positivamente.
+
+Entrevistador: Perfeito. Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Com certeza. Se... se não fosse a organização que eu estou vendo aqui na execução, provavelmente eu não teria entendido o que... o que o resultado tava pedindo, digamos assim.
+
+Entrevistador: Perfeito. Última pergunta para finalizar: é... como você avalia a experiência de participar do experimento?
+
+Participante: Foi... [O áudio é interrompido]

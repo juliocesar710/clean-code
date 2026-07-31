@@ -1,0 +1,34 @@
+Com certeza! Aqui está a transcrição detalhada da entrevista com o Participante 28, baseada no áudio do arquivo "participante 28.aac". A estrutura foi organizada com cabeçalhos e marcadores para manter o padrão de leitura rápida:
+
+Transcrição da Entrevista: Participante 28
+Entrevistador: ...comecei a gravar. Uhum. A primeira pergunta é: qual das tarefas você achou a mais fácil de entender? Por quê? Pode voltar, tá? Não tem pressa dessa aí que você respondeu agora.
+
+Participante: A primeira, que calculava a... a média da aprovação, né? Baseado no número de faltas. Primeiro porque o nome das variáveis está fácil e o cálculo ele é bem intuitivo. Então, só olhando assim rapidamente, daria para saber a resposta. E outra questão também é que, nas próprias respostas, eu olhei bem rápido e vi que o aluno 2, ele estaria reprovado por faltas. Então, nas alternativas eu só precisava procurar aquele que tivesse como alternativa o aluno 2 reprovado por faltas, e depois calculava o aluno 1.
+
+Entrevistador: Ok. É... quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: Nome de variáveis intuitivo... é... que mais? Sim, o... funções autodeclarativas também, e... e métodos muito, muito bem desenhados.
+
+Entrevistador: Ok. Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Sim, houve... nesse da de calcular o número primo.
+
+Entrevistador: Ok.
+
+Participante: Porque, por intuição, quando eu vi o valor de 7 e 10, obviamente seria... é... 7 falso e 10 true. Só que aí, quando fui ver melhor no código, vi que era diferente a lógica, né? Então... é... inverteu porque era número mais um. Aí depois que eu fui entendendo o porquê que a resposta seria true e false.
+
+Entrevistador: Perfeito. É... os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Sim. Sim, impactaram muito porque estavam muito declarativos, né? É... a respeito do que a função estava fazendo, os nomes da variáveis claros e bem precisos.
+
+Entrevistador: A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Sim, também. Porque fica mais fácil a visualização, também acompanhar passo a passo e saber a chamada de cada função, saber a organização ali de cada parte e... a indentação também.
+
+Entrevistador: Ok. É... você acredita que práticas de organização e padronização ajuda no aprendizado de programação? Por quê?
+
+Participante: Sim, porque você aprende por... como é que se diz? Você aprende por... seguindo os padrões que você vê na... na... no mundo da programação, né? Então, todo... todo aprendizado em relação à programação é seguir aquilo que nós seguimos. Tanto para aprender é sempre assim, né? Seguir os padrões. Então, seguindo os padrões das melhores práticas, seguindo os padrões da linguagem, da questão da organizacional, ajuda a fazer bons códigos, concisos e coerentes. E claros.
+
+Entrevistador: Perfeito. Perfeito. É... a última pergunta aqui para finalizar: como você avalia a experiência de participar do... participar do experimento?
+
+Participante: Ah, eu gostei. É um experimento muito bom, é bem intuitivo, é... desafiou muito a respeito à lógica de olhar o código e entender o que ele faz, não só na parte de... da descrição das variáveis, mas em si compreender... [O áudio é finalizado].

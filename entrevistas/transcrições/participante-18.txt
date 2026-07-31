@@ -1,0 +1,50 @@
+Aqui está a transcrição estruturada e revisada do segundo áudio, mantendo o padrão da entrevista anterior do Participante 17:
+
+Transcrição da Entrevista: Participante 17 (Áudio 2)
+Entrevistador: É, comecei a gravar. É... primeira pergunta, deixa eu olhar no meu dado... Qual das tarefas você achou a mais fácil de entender? Por quê? Aí você pode voltar para ver uma por uma.
+
+Participante: [Analisando as opções em silêncio] Essa foi... essa do fatorial foi simples de entender.
+
+Entrevistador: Você achou que foi a mais fácil?
+
+Participante: Eu acho que sim.
+
+Entrevistador: Ok, por quê?
+
+Participante: Porque é um código mais enxuto, menor.
+
+Entrevistador: Ok. É... quais elementos do código mais contribuíram para fa- facilitar sua compreensão? Pode ser dessa questão em específico ou de modo geral, tá?
+
+Participante: Acho que os... os códigos menores eram mais fáceis de entender. E esses que tinham muita estrutura aninhada eram mais complicados.
+
+Entrevistador: Ok. Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Esse trecho aqui, ó... que tem esses...
+
+Entrevistador: A questão seis, de ordenar números, né?
+
+Participante: Isso, que tem os... esses fors aninhados aí.
+
+Entrevistador: O for aninhado. Perfeito. A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Hum... você diz tipo assim, em que sentido a organização?
+
+Entrevistador: Organização... é... do código, das indentações, é... e do espaçamento. E como as funções e variáveis estão organizadas dentro do código.
+
+Participante: Eu acho que... por exemplo, ter o nome da função ehNumeroPrimo em vez de, sei lá, só primo, ajuda a pessoa a saber que... que, como é uma pergunta "é número primo?", vai retornar um booleano, sabendo se é ou não um número primo. Esses espaços também acho importante para a pessoa... porque se fosse mais junto, aí ficaria mais confuso ainda o código. Esse espaço assim, em linha... ajuda na interpretação do código.
+
+Entrevistador: Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Sim, eu... eu acho importante ser uma... uma variável com um nome bem descritivo do que ela é.
+
+Entrevistador: Perfeito.
+
+Participante: Em vez de ser, por exemplo, só x aqui... aí a pessoa tem que descobrir o que é o x.
+
+Entrevistador: Entendi. Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Eu acho que ajuda, né? Porque... se fica mais fácil da pessoa entender o código, né, já agiliza as coisas, já não... já poupa um tempo também.
+
+Entrevistador: Perfeito. Última pergunta aqui para finalizar: como você avalia a experiência de participar do experimento?
+
+Participante: Interessante.

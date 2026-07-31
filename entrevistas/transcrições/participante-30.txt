@@ -1,0 +1,41 @@
+Entrevistador: Coloquei para gravar. É... qual das tarefas achou a mais fácil de entender? Por quê? Aí você pode voltar para olhar cada uma individualmente.
+
+Participante: [Analisando as opções] Bom... a que eu achei mais fácil creio eu que foi a última.
+
+Entrevistador: A seis?
+
+Participante: Isso, a seis.
+
+Entrevistador: De ordenação.
+
+Participante: Isso, exato. Porque a própria... a própria definição ali, né, da função já tava falando que era de ordenar. E aqui já dá para deduzir que é uma ordenação, né, crescente. Então, eu já fui com a... a lista e vendo quais eram os números. Aí por isso que eu achei mais fácil.
+
+Entrevistador: Ok. Quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: Tanto o nome, que foi o nome da função para ordenar, quanto também os números, né? Os números da lista.
+
+Entrevistador: Ok. Pode ser dessa e de outras questões, tá? É... houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Dessa questão?
+
+Entrevistador: Em modo geral. Pode ser dessa ou de outra questão.
+
+Participante: Hum... eu acho que essa...
+
+Entrevistador: A de busca binária, a questão cinco?
+
+Participante: Isso. Essa gerou uma dúvida por conta que tinham alguns condicionais, né? Aí meio que faz com que você tenha... tenha que raciocinar mais. Essa gerou um pouco mais de dúvida em mim.
+
+Entrevistador: Ok. A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Bom, foi de uma forma boa porque estavam bem organizados e, assim, só pela ordenação do código já dava para deduzir como é que ele funcionava.
+
+Entrevistador: Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: É... impactaram bastante porque, como eles já têm, tipo, o nome sugerindo o que faz, então meio que você já tem ideia de como o código vai ser. Já tem ideia de como ele funciona.
+
+Entrevistador: Ok. Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Ajudam porque acho que... um exemplo, no começo, quando você tá aprendendo a programar, é... essa ordenação meio que já é um guia para você ir aprendendo. Quando você não tem uma ordenação, é... eu acho que se torna mais difícil você aprender depois, sabe?
+
+Entrevistador: Entendi. Última pergunta... [O áudio é finalizado].

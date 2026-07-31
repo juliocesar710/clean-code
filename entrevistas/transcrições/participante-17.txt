@@ -1,0 +1,73 @@
+Entrevistador: Pronto, comecei a gravar. As perguntas... Ok. É, qual das tarefas você achou a mais fácil de entender? E por quê? Dos códigos...
+
+Participante: Isso. Você pode voltar para olhar um por um, caso queira. Foi esse aqui.
+
+Entrevistador: É, esse. O quarto, de calcular fatorial. Por quê?
+
+Participante: Porque ele tá bem simples, bem... bem reduzido assim, poucas linhas. E também o nome das variáveis também... Às vezes, você não precisa nem ler o que o código faz, só ver a assinatura e já viu.
+
+Entrevistador: Perfeito. Quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: É o tamanho do código, né? Que é pequeno.
+
+Entrevistador: Sim. Pode ser desse ou de modo geral, viu?
+
+Participante: Ahn?
+
+Entrevistador: Pode ser dessa questão ou de modo geral. Pode responder.
+
+Participante: De outras também?
+
+Entrevistador: Sim, você pode responder... Você pode escolher, entendeu? Se quer falar só sobre essa ou de todas.
+
+Participante: Acho que em todos os códigos, eles tinham as variáveis, né? Então, quando batia o olho, já dava para saber o que ele ia fazer. Ok... Ó, esse 'trocar posições', o Bubble Sort, que é muito conhecido... Acho que é basicamente isso, porque ele tem a indentação também, ó.
+
+Entrevistador: Sim.
+
+Participante: Então dá para ver bem. Acho que é isso.
+
+Entrevistador: Ok. Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Esse do Bubble Sort, achei muito grande. Eu acho que... não sei, não lembro direito, mas acho que o Bubble Sort é um pouquinho menor. Só que aqui ele tá maior, né?
+
+Entrevistador: É, tá... Tá bem grandinho.
+
+Participante: Deixa eu ver... Aqui também, esse outro eu senti um pouco de dificuldade.
+
+Entrevistador: Na questão cinco, de buscar valor.
+
+Participante: Isso. Porque... tá meio grande.
+
+Entrevistador: Ok. A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Sim. Esses... Tanto esse, quanto esse, quanto a...
+
+Entrevistador: Quanto a cinco e a seis.
+
+Participante: Isso. Cinco e seis. Primeiro eu entendi um pouco porque... Enfim, tava muito grande. As variáveis ajudaram muito, sabe?
+
+Entrevistador: Uhum.
+
+Participante: Mas eu achei...
+
+Entrevistador: A organização ficou...
+
+Participante: Isso. Muito grande. Deixa eu ver se tem outros. É, acho que era mais aqueles dois.
+
+Entrevistador: Mais o cinco e o seis. Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Sim, totalmente. É... Em todos praticamente, né? Porque eles estão bem escritos. Aí, por exemplo, aqui: 'calcular média de três'. Já dá para saber que ele vai calcular a média de três números.
+
+Entrevistador: Sim.
+
+Participante: Aí... 'verificar primo'. Aqui já sabe... Ele vai verificar o número que é primo, não tem muito o que dizer, né? Aqui, 'fatorial'... Acho que as variáveis, elas influenciaram nisso.
+
+Entrevistador: Ok. Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Sim, porque você já consegue escrever um código que outra pessoa vai entender e que... Você vai ser muito bem-visto no mercado, você vai conseguir trabalhar com grandes equipes.
+
+Entrevistador: Ok. Última pergunta para finalizar: como você avalia a experiência de participar do experimento?
+
+Participante: Eu gostei! Eu achei que ia ser mais difícil, mas eu gostei, sim.
+
+Entrevistador: Perfeito. Vou só...

@@ -1,0 +1,39 @@
+Entrevistador: Prontinho, coloquei para gravar. É... qual das tarefas você achou a mais fácil de entender, por quê? Aí você pode voltar para ver todas elas.
+
+Participante: Eu acho... deixa eu ver. Eu achei tanto a três quanto a seis, é... super tranquilas. Principalmente a seis, que era sobre a... ordenação de bubble sort.
+
+Entrevistador: Ok. Por quê?
+
+Participante: Porque literalmente o código já... estava explicando já que era... pegava o que estava desordenado dos números e ordenava com bubble sort. Tipo, era só literalmente pegar o que estava desordenado do próprio código e ver a opção que estava ordenada corretamente, com os... os valores em cada posição correta.
+
+Entrevistador: Perfeito. É... quais elementos do código contribuíram... mais contribuíram para facilitar sua compreensão?
+
+Participante: É... principalmente que já no... e no... é, realmente no fim, no final do código, quando apa-... é... tá escrito o que é... literalmente o que você tem que fazer. É justo... no final do código diz o que você tem que fazer, aí depois é só você procurar no meio do código, e... do início, no meio, o que realmente... o que ele falou está coerente. Foi mais ou menos isso. Eu... eu... eu já fui do final, ler o que pedia para, no... no código mesmo, na me-... é... dentro dele, ver.
+
+Entrevistador: Ok. Houve algum trecho que gerou dúvida ou... ou dificuldade? Se sim, qual?
+
+Participante: Assim, a minha maior dificuldade é porque... é... como fazia algum tempo que eu não... que eu não... que eu não via, eu acabei esquecendo algumas coisinhas. E também por causa da... minha visão, mas aí é por mim mesmo, tipo, da minha visão mesmo. Mas de resto, tipo, tá... tava bem entendido.
+
+Entrevistador: Ok. A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Não, aju-... ajudou bastante. Tipo... quando eu não tava conseguindo entender alguma coisinha, eu ia... eu avançava um pouquinho, via e depois eu conseguia interpretar e enten-... entender melhor. Quando eu tava achando uma coisa que eu não... que eu não... que eu... que eu não tava lembrado ou que eu não tava, tipo, tentando entender o que era, mas só que aí eu lia alguma coisa mais para a frente e eu já... aí eu... eu já sacava.
+
+Entrevistador: Ok. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: É o quê? Pode repetir?
+
+Entrevistador: Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Hum, tipo assim, o que eu... para mim foi... normal. Tipo... ajudou. É... foi como já tivesse escancarado.
+
+Entrevistador: Entendi. É... você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Repete?
+
+Entrevistador: Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Ajuda no entendimento porque com a organização fica bem mais limpo o código. Tipo, deixa uma explicação mais simples do que deixar o código todo... todo... todo confuso, com var-... com variações, tipo, com nomes nada a ver, tipo, grandes, sendo que você poderia simplesmente encurtar, deixar algo entendível do que só tacar coisa.
+
+Entrevistador: Entendi. Última pergunta aqui para finalizar: como você avalia a experiência de participar do experimento?
+
+Participante: Não, foi... foi bastante divertido. Ainda mais por lem-... por lembrar.

@@ -1,0 +1,61 @@
+﻿eh já comecei a gravar eh a primeira pergunta deixa eu colocar
+
+aqui eh qual das tarevas você achou mais fácil
+
+de entender por quê aí você pode voltar aqui para ver uma por
+
+uma hum ah calcular fatorial calcular
+
+fatorial é um um código que a gente já tem familiaridade é um código curto por ser.
+
+no recursivo ok eh quais elementos do código mais contribuíram para facilitar
+
+sua compreensão pode ser dessas questões específico ou de todas
+
+no geral
+
+os pode ser mais de um né sim acho que o código está bem espaçado também porque
+
+as descrições são bem específicas entendi
+
+eh houve algum trecho que gerou dúvida ou dificultou?
+
+dado se sim
+
+qual a parte que mais me confunde é essa parte de listas quando vai
+
+ter que mexer a questão cinco não na questão cinco seis é c e seis que
+
+vai ter que mexer i tem que pensar mais um pouco ok eh a organização
+
+do código influenciou sua interpretação da solução de que forma?
+
+sim, porque o código bem organizado com espaçamento,
+
+o teb né, sim, ajuda bastante a saber onde é que termina,
+
+onde é que inicia e termina a função,
+
+ou onde é que inicia o for o if perfeito,
+
+eh, os nomes variáveis e funções impactaram sua compreensão,
+
+como sim, para compreender, compreender mais facilmente, ok?
+
+você acredita que práticas de organização
+
+padronização ajudam no aprendizado de programação?
+
+por quê?
+
+acredito que sim, porque hum, porque por exemplo,
+
+se as variáveis nesses códigos forem fossem só x1,
+
+você teria que pensar bem
+
+mais para entender aquele código e quando a gente tá começando isso poder.
+
+pode ser uma barriga, perfeito, hoje uma pergunta para finalizar,
+
+como você avalia a experiência participar do experimento,

@@ -1,0 +1,44 @@
+Com certeza! Aqui está a transcrição detalhada da entrevista realizada com o Participante 31, com base no áudio do arquivo "participante 31.aac". A estrutura foi organizada com cabeçalhos e marcadores para manter o padrão de leitura rápida:
+
+Transcrição da Entrevista: Participante 31
+Entrevistador: É... coloquei para gravar. Primeira pergunta: é... qual das tarefas achou a mais fácil de entender, por quê? Aí pode voltar e à vontade, tá? Olhar cada uma.
+
+Participante: [Analisando as tarefas] Essa daqui do...
+
+Entrevistador: Hum, verificar primo. Sim. Por quê?
+
+Participante: Eu acho... eu acho que nessa... nessa aqui, como não tem um amontoado de variáveis gigante, ficou melhor a leitura, sabe?
+
+Entrevistador: Entendi. Mais fácil de ler. Ok. Quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: É o... basicamente o que eu falei. Que nem eu falei, as variáveis estão... bem mais legíveis, o código está mais legível aqui, no caso. Ok.
+
+Entrevistador: Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Nesse código aqui?
+
+Entrevistador: Geral.
+
+Participante: Hum... foi mais exato atenção no geral, porque aqui eu tinha... ainda não tinha visto...
+
+Entrevistador: Nessa busca... busca valor. Ok.
+
+Participante: ...porque eu tinha lido... é que como tem o... bastante variável com nome grande e tudo mais, aí eu acabei me perdendo para... porque eu acabei até, tipo, pulando algumas linhas, sabe?
+
+Entrevistador: Entendi. É... a organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Bom, eu acho que a... a organização do... do código, em alguns casos, ajuda bastante a interpretação quando ela está mais limpa, sabe?
+
+Entrevistador: Sim. Sim. É... os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Ah, eu achei os nomes muito... muito extensos. Eu diminuiria bastante para melhorar a leitura.
+
+Entrevistador: Perfeito. Mais alguma coisa?
+
+Participante: Não.
+
+Entrevistador: É... você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Sim. Porque... quando você tem algo padronizado, você já vai para esperar o... o que vai acontecer, né?
+
+Entrevistador: Ok. Última pergunta para finalizar: como você... [O áudio é interrompido].

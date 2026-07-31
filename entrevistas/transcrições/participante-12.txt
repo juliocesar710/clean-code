@@ -1,0 +1,87 @@
+﻿Pronto, coloquei para gravar, eh, qual das tarafas achou mais fácil de entender,
+
+porque aí você pode voltar aqui para ver qual dos códigos eu achei mais fácil,
+
+isso qual dos códigos, você pode olhar um por um,
+
+pode ficar à vontade,
+
+assim na minha concepção ou pera aí, passei demais.
+
+na minha concepção ou tipo que eu imagino que uma pessoa va concepção sim
+
+para mim o primeiro é mais fácil de entender porque as variáveis não tem número mágico,
+
+os números mágicos eles são explicados né, qual é nota mínima, nota máxima,
+
+nota máxima não né, mas o máximo de falta, entendi, perfeito,
+
+eh, quais elementos do código mais contribuíram
+
+contribuíram para facilitar facilitar sua compreensão,
+
+pode ser dessa questão ou de um modo geral explicar as varias.
+
+pois elas não ser número mágico foi contribuiu muito ok,
+
+houve algum trecho que gerou dúvida ou dificuldade,
+
+se sim qual é cadê
+
+essa porque eu pensei que busca retornava o valor o valor
+
+porque o que a gente é acostumado fazer né,
+
+só que aí quando eu li novamente eu percebi que
+
+ele retorna o o índice da da perfeito questão cinco só.
+
+eh a organização do código influenciou sua interpretação da solução
+
+de que forma influenciou porque todos os códigos eles
+
+estão detalhados assim né,
+
+eles não estão alinhado,
+
+não estão tem espaçamento entre a os blocos
+
+né de rif eh isso ajuda né,
+
+não fica não embaralhalha pro cérebro, entendi perfeito eh os nomes variáveis de função.
+
+mas impactaram sua compreensão como impactaram porque eu já sabia o que procurar,
+
+então se eu se a função é número primo,
+
+então imagino que ela vai verificar se ela vai retornar o quê?
+
+um boleano porque é número primo ela vai verificar se o número é primo,
+
+então isso que eu que eu consegui tirar de todas as funções né?
+
+ok, você acredita que práticas de organização padronização,
+
+ajuda no aprendizado de programação, por quê?
+
+ajuda, ajuda.
+
+até porque cara é é
+
+o que acho que se você organizar a o lugar onde você tá,
+
+você vai ter um uma compreensão melhor, você vai ter um estudo melhor,
+
+então se você organiza também o código que você escreve,
+
+você consegue interpretar de muito mais rápido né,
+
+você vai ler uma função, você vai saber o que que ela faz,
+
+você vê uma variável você ela não é um número mágico, ela é um nome,
+
+então você já sabe o que que é aquela variável, então acho que é...
+
+a organização do código é é primordial,
+
+perfeito, última pergunta para finalizar é como

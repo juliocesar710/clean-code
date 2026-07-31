@@ -1,0 +1,49 @@
+Entrevistador: Pronto, coloquei para gravar aqui. A primeira pergunta é... qual das tarefas você achou a mais fácil de entender? Por quê? Aí você pode voltar para olhar uma por uma, caso queira.
+
+Participante: A mais fácil foi a segunda alternativa.
+
+Entrevistador: A segunda tarefa. É a de verificar número primo. Por quê?
+
+Participante: Porque eu mal olhei o código. Fui só... eu verifiquei o resultado.
+
+Entrevistador: Ok. É... quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: O nome da função.
+
+Entrevistador: O nome da função?
+
+Participante: E o resultado.
+
+Entrevistador: Ok. É... houve algum trecho que gerou dúvida ou dificuldade? Essa pergunta é para essa questão ou para todas no geral?
+
+Participante: Ah, para todas, né?
+
+Entrevistador: Isso. Você pode comentar sobre outras.
+
+Participante: Pronto. Dificuldade foi concentração na primeira questão.
+
+Entrevistador: Na primeira questão. Ok, é... algum trecho específico ou a questão... a tarefa inteira?
+
+Participante: A tarefa inteira.
+
+Entrevistador: Ok. A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: É... primeiro eu olhava o nome da função, depois eu olhava o resultado aqui, e conferia ali.
+
+Entrevistador: Nas alternativas?
+
+Participante: Isso, nas alternativas. Aí via se tinha como já burlar, para fazer logo direto, para não olhar o corpo da função.
+
+Entrevistador: É. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: É... para identificar as respostas. Foi fundamental.
+
+Entrevistador: Ok. Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê? Pode repetir, por favor?
+
+Entrevistador: Você acredita que práticas de organização e padronização de código ajudam no aprendizado de programação? Por quê?
+
+Participante: Sim. Porque... é... a pessoa, o leitor, ele vai ter mais facilidade de identificar o que esse código tá querendo resolver.
+
+Entrevistador: Perfeito. A última pergunta para finalizar: como você avalia a experiência de participar do experimento?
+
+Participante: Achei massa.

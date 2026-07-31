@@ -1,0 +1,43 @@
+Entrevistador: Coloquei para gravar aqui. Primeira pergunta... é... qual das tarefas achou a mais fácil de entender, por quê? Aí você pode olhar uma por uma e falar.
+
+Participante: [Analisando as opções] Eu acho que foi a seis, mano.
+
+Entrevistador: A seis? Por quê?
+
+Participante: Porque, de acordo com o código, tá certinho, ó. Ele vai ordenar e... vai deixar, na teoria, para ficar tudo certo a ordenação.
+
+Entrevistador: Ok. Quais elementos do código mais contribuíram para facilitar... facilitar a sua compreensão?
+
+Participante: A descrição das... das variáveis. Ou melhor, os nomes autodescritivos das variáveis.
+
+Entrevistador: Certo. Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Acho que, se eu não me engano, foi na primeira e a segunda.
+
+Entrevistador: Sim.
+
+Participante: É... a questão do proj, porque, para ser sincero, eu não entendi muito bem o que seria.
+
+Entrevistador: Sim.
+
+Participante: É... e na que na segunda... foi a mesma questão que tu acabou de me explicar. É... eu realmente não tinha entendido como é que ia funcionar o código.
+
+Entrevistador: O proj seria tipo uma nota bônus em projeto. Só para deixar explicado. Mas depois... aí, voltando nessa questão, tá?
+
+Participante: Ok.
+
+Entrevistador: É... a organização do código influenciou... a organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Sim. A... principalmente a... a quatro e a seis, o código tava bem estruturado, então só de olhar pro código, é... bater o olho, a gente já entendia mais ou menos o que... o que era pra acontecer.
+
+Entrevistador: Entendi. É... os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Sim, como eu acabei de falar, por causa do... do nome autodescritivo de cada uma.
+
+Entrevistador: Perfeito. Você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Sim, pelo fato de que, se um código tá organizado, é mais fácil de você olhar e entender ele, do que você pegar um código todo desorganizado e tentar entender a estrutura e o que significa aquilo que tá acontecendo.
+
+Entrevistador: Ok. É... última pergunta para finalizar: como você avalia a experiência de participar do experimento?
+
+Participante: [O áudio é interrompido no momento em que o participante começaria a responder]

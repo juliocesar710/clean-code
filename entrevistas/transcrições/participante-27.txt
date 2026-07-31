@@ -1,0 +1,63 @@
+Entrevistador: Prontinho, já está gravando. Primeira pergunta... é... qual das tarefas você achou a mais fácil de entender, por quê?
+
+Participante: [Analisando as folhas] Ah...
+
+Entrevistador: Qual... qual das tarefas você achou a mais fácil de entender? Por quê? Você pode passar para olhar, pode. Fique à vontade. Aquela parte lá é depois.
+
+Participante: A de calcular o fatorial.
+
+Entrevistador: A de calcular o fatorial. Por quê?
+
+Participante: Porque eu estava mais familiarizada e também porque é muito mais simples.
+
+Entrevistador: Perfeito.
+
+Participante: Mais fácil de não se perder.
+
+Entrevistador: Perfeito. Quais elementos do código mais contribuíram para facilitar sua compreensão? Pode ser dessa ou de outra questão.
+
+Participante: Eu diria... o laço.
+
+Entrevistador: O laço? Ok. É... houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: A que eu tive mais dificuldade foi...
+
+Entrevistador: A de verificar número primo.
+
+Participante: É...
+
+Entrevistador: Algum trecho específico ou o código inteiro?
+
+Participante: Na verdade, acho que foi só falta de atenção.
+
+Entrevistador: Ok. É... mais algum comentário? Pode passar.
+
+Participante: Pode passar.
+
+Entrevistador: A organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Eu diria que não foi nem relacionado ao código, mas da minha parte mesmo...
+
+Entrevistador: Não, tipo, essa pergunta pode ser dessa ou de modo geral, tá? Não precisa ser só dessa questão não.
+
+Participante: Não, mas eu gostei de como foi organizado.
+
+Entrevistador: Então influenciou?
+
+Participante: [Risos]
+
+Entrevistador: Não, tipo... aí, tipo, de que forma influenciou?
+
+Participante: Positivamente.
+
+Entrevistador: Ok. É... os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Quer dizer, foi tranquilo. Em português...
+
+Entrevistador: Ok. É... você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Acredito que sim, porque é justamente a questão da familiaridade. Que influencia.
+
+Entrevistador: Ok. Última pergunta: como você avalia a experiência de participar do experimento?
+
+Participante: [O áudio é interrompido no momento em que a participante começaria a responder]

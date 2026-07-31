@@ -1,0 +1,69 @@
+Entrevistador: Prontinho, comecei a gravar. É... qual das tarefas você achou a mais fácil de entender, por quê? Aí você pode voltar para olhar uma por uma.
+
+Participante: Essa primeira.
+
+Entrevistador: A primeira, de calcular a média de três. Por quê?
+
+Participante: Porque aqui você definiu que o máximo de faltas é 10, e o... e o aluno dois ele já extrapola, é 12, então já dá para entender que a resposta seria essa, que o aluno seria aprovado. Porque pergunta de um também vai ser aprovado pela média e como ele já tá reprovado por faltas, a alternativa única seria a D.
+
+Entrevistador: Ok, perfeito. É... quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: Foi essas... essas variáveis no escopo... é global que chama? Essas variáveis aqui...
+
+Entrevistador: Essa aqui? Sim, isso. Variáveis do escopo global. Ok.
+
+Participante: Elas ficaram bem definidas e ajudou a... definir de imediato o resultado do código.
+
+Entrevistador: Ok. É... houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Você diz o código que gerou dúvida?
+
+Entrevistador: Isso, algum trecho, algum código específico ou de modo geral?
+
+Participante: Esse código dois aqui.
+
+Entrevistador: O dois? É... e qual trecho? Tipo, o código inteiro, a função, alguma comparação?
+
+Participante: É, essa... essa função eu não entendi bem, não.
+
+Entrevistador: Sim, no caso a função de calcular número primo.
+
+Participante: Isso.
+
+Entrevistador: É... basicamente ela está... é... verificando se o número ele é menor do que dois, que ele já retorna false, porque ele não... ele vai ser, né, não tem como ele ser número primo. É... a quantidade... porque o um, né, o um não é número... número primo.
+
+Participante: Certo.
+
+Entrevistador: É... aqui ele vai ter a quantidade de di-... de divisores, vai ter um for que vai percorrer o i, que vai começar em um, vai até o número que ele recebeu por parâmetro mais um, que é para percorrer todos os... os números.
+
+Participante: Certo.
+
+Entrevistador: E vai dividir o número... é... vai verificar se o... o resto da divisão do número pelo divisor, que no caso é o i...
+
+Participante: Hã...
+
+Entrevistador: ...é zero. Se for, a quantidade de divisores vai aumentar em um. Vai retornar a quantidade de divisores. Se for igual a dois, ou seja, se tiver um... dois divisores, ele é primo.
+
+Participante: Sim.
+
+Entrevistador: True. Se for diferente de dois, ou seja, mais que dois... porque não tem como ele ser menor, já que a gente já... já descartou...
+
+Participante: Isso, já... já deixou...
+
+Entrevistador: ...aí ele não é primo.
+
+Participante: Certo.
+
+Entrevistador: Sim, mas foi essa questão do número primo. É... a organização do código influenciou sua interpre-... interpretação da solução? De que forma?
+
+Participante: Sim, porque eu acho que o código ele... ele vem bem definido as suas variáveis, ele dá para você a ideia exata de que o código quer e o que ele vai entregar para você.
+
+Entrevistador: Perfeito. É... os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Por exemplo, essa primeira questão, essa sua definição dessas variáveis globais, ela facilitou para um raciocínio rápido. Porque o que o código vai mostrar é se os alunos vão ser aprovados ou reprovados. E essa variável global no escopo de "faltas", que ela é... é... o limite dela é 10, o aluno ao extrapolar você já tende o raciocínio que ele vai estar reprovado. É esse o raciocínio.
+
+Entrevistador: Perfeito. É... você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Sim, eu concordo que ele... ele vai facilitar muito a vida de quem está lendo e de quem também vai estar programando. Porque ele deixa o... o código mais fluido e mais rápido na interpretação para você, talvez, solucionar até algum erro ou então até melhorar o código.
+
+Entrevistador: Perfeito. Agora a última pergunta para concluir... [O áudio é interrompido]

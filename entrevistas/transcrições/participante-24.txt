@@ -1,0 +1,49 @@
+Entrevistador: Recomeçando... Coloquei para gravar aqui. É... qual das tarefas você achou a mais fácil de entender, por quê? Aí você pode voltar aí nas tarefas para olhar cada uma individualmente.
+
+Participante: [Analisando os códigos] É... foi a... a três.
+
+Entrevistador: A três, que calcula o fatorial. Por quê?
+
+Participante: Por causa que, tipo assim... é... tipo, tem os espaços, sabe, que... para a formatação do código, tipo, não tá tão junto. Aí, para ler, fica melhor do que quando, por exemplo, aqui tem as entradas e tem a saída, tipo, tá tudo junto. Aí, fica melhor de ler, tipo, o que cada coisa faz.
+
+Entrevistador: Ok. É... quais elementos do código mais contribuíram para facilitar sua compreensão?
+
+Participante: Foi justamente a parte da separação do código. Por exemplo, a função você sabe que tá em cima, o resultado você sabe que, tipo, o início tá aqui, o for tá bem juntinho... Aqui tem as entradas, a saída tá tudo igual, tipo, tá tudo junto. Aí, tipo, o formato como tá colocado... Esqueci o nome da palavra agora...
+
+Entrevistador: É... a indentação.
+
+Participante: Indentação, isso.
+
+Entrevistador: Houve algum trecho que gerou dúvida ou dificuldade? Se sim, qual?
+
+Participante: Não...
+
+Entrevistador: Pode ser, tipo, de várias questões, sabe? Não precisa ser só dessa não.
+
+Participante: Ah, entendi. Calma...
+
+[Pausa para análise dos códigos]
+
+Participante: Eu acho que, tipo, foi mais nessa parte aqui, porque tem muito if e else, tipo, junto, sabe?
+
+Entrevistador: Na questão de calcular a média de três, na primeira questão?
+
+Participante: Isso. É... para calcular a presença. Porque tem, tipo, muito if, aí embaixo tem outro if, aí, tipo, tá muito if e else junto, aí deu, tipo...
+
+Entrevistador: Confundiu.
+
+Participante: Aham.
+
+Entrevistador: Perfeito. É... no caso, a organização do código influenciou sua interpretação da solução? De que forma?
+
+Participante: Influencia mais na questão de você ver que a inden-... a indentação, né? Por exemplo, tá tudo bem, tipo, em cada parte você consegue ver o que cada um faz. Aí, isso meio que facilitava. E também por causa do nome das variáveis, nome das funções.
+
+Entrevistador: Tá. Essa já é a próxima pergunta. Os nomes de variáveis e funções impactaram sua compreensão? Como?
+
+Participante: Porque o nome tá bem explícito o que faz. Por exemplo, aqui tá "encontrar o maior número", você sabe que essa função ela vai servir para isso. E, por exemplo, aqui também, tipo, que tem "calcular fatorial", você sabe o que é cada um.
+
+Entrevistador: Ok. E você acredita que práticas de organização e padronização ajudam no aprendizado de programação? Por quê?
+
+Participante: Eu acredito que sim, por causa que quando você tem, tipo, um modelo para você seguir, aquilo ali vai padronizar o que as outras pessoas vão criar. E para você aprender, tipo, por outros códigos, facilita por causa disso. Porque você vai ter, tipo, um exemplo já para você seguir. Por exemplo, é... você tem um código aqui... se você tá olhando esse código, você já sabe o que significa, por causa que vai ter um padrão de variável, vai ter um padrão de função, vai ter um padrão de... por exemplo, no Python você tem que deixar, tipo, um tem-... um espacinho antes de fazer cada coisa. Aí, isso daí é uma... uma coisa importante.
+
+Entrevistador: Perfeito.
